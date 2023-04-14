@@ -1,0 +1,20 @@
+html {
+    background-color: beige;
+}
+
+.App{
+    width: 100vw; 
+    display: grid;
+    place-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.heading{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 30px 0;
+    color: rgb(20, 86, 17);
+    z-index: 1;
+}
